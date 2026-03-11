@@ -59,3 +59,7 @@ pandas
 matplotlib
 openai
 python-dotenv
+streamlit
+pandas
+matplotlib
+openai
